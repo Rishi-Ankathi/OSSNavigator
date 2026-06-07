@@ -1,0 +1,28 @@
+OSSNavigator/
+│
+├── practice/
+│   ├── fastapi_basics/
+│   ├── database_basics/
+│   └── github_api_basics/
+│
+├── app/
+│   │
+│   ├── main.py
+│   │
+│   ├── api/
+│   │   └── routes.py
+│   │
+│   ├── services/
+│   │   └── github_service.py
+│   │
+│   ├── models/
+│   │   └── repo_models.py
+│   │
+│   └── database/
+│       └── database.py
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── .gitignore
